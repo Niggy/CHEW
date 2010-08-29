@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="nig_temporal">
+                <file name="Direction" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <attr name="hint.originalPublicID" stringvalue="-//nig.temporal//Direction//EN"/>
+                </file>
+                <file name="Memory" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <attr name="hint.originalPublicID" stringvalue="-//nig.temporal//Memory//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="nig">
+                <folder name="temporal">
+                    <file name="DirectionTopComponent">
+                        <attr name="settings.providerPath" stringvalue="xml/lookups//nig_temporal/Direction.instance"/>
+                    </file>
+                    <file name="MemoryTopComponent">
+                        <attr name="settings.providerPath" stringvalue="xml/lookups//nig_temporal/Memory.instance"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="nig_temporal">
+                <file name="Direction.instance">
+                    <attr methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="nig.temporal.DirectionTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="nig.temporal.DirectionTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Memory.instance">
+                    <attr methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="nig.temporal.MemoryTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="nig.temporal.MemoryTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: nig.mysql3
+OpenIDE-Module-Localizing-Bundle: nig/mysql3/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

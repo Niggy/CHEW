@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.team.kit">
+    <module_version install_time="1259965755043" last="false" origin="installer" specification_version="1.3.1">
+        <file crc="1512089909" name="config/Modules/org-netbeans-modules-team-kit.xml"/>
+        <file crc="3082469801" name="modules/org-netbeans-modules-team-kit.jar"/>
+    </module_version>
+    <module_version install_time="1273416299792" last="true" origin="NetBeans" specification_version="1.3.2">
+        <file crc="1413735091" name="modules/locale/org-netbeans-modules-team-kit_ja.jar"/>
+        <file crc="618335728" name="modules/locale/org-netbeans-modules-team-kit_pt_BR.jar"/>
+        <file crc="398642756" name="modules/locale/org-netbeans-modules-team-kit_zh_CN.jar"/>
+        <file crc="4119454975" name="config/Modules/org-netbeans-modules-team-kit.xml"/>
+        <file crc="867532452" name="modules/org-netbeans-modules-team-kit.jar"/>
+    </module_version>
+</module>

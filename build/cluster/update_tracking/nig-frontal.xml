@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="nig.frontal">
+    <module_version install_time="1283079637473" last="true" origin="installer" specification_version="1.0">
+        <file crc="3846686967" name="config/Modules/nig-frontal.xml"/>
+        <file crc="4194262081" name="modules/nig-frontal.jar"/>
+    </module_version>
+</module>

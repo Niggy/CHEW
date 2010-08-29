@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.openide.util">
+    <module_version install_time="1259968383730" last="false" origin="installer" specification_version="7.31.1.1">
+        <file crc="274042802" name="lib/org-openide-util.jar"/>
+    </module_version>
+    <module_version install_time="1273416327399" last="true" origin="NetBeans" specification_version="7.31.2.1">
+        <file crc="1453640971" name="lib/locale/org-openide-util_ja.jar"/>
+        <file crc="3779809009" name="lib/locale/org-openide-util_pt_BR.jar"/>
+        <file crc="3301328639" name="lib/locale/org-openide-util_zh_CN.jar"/>
+        <file crc="1500218840" name="lib/org-openide-util.jar"/>
+    </module_version>
+</module>

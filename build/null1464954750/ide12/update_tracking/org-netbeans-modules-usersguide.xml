@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.usersguide/1">
+    <module_version install_time="1259965756486" last="true" origin="installer" specification_version="1.26.1">
+        <file crc="1369881141" name="config/Modules/org-netbeans-modules-usersguide.xml"/>
+        <file crc="3684198717" name="docs/org/netbeans/modules/usersguide/ide.css"/>
+        <file crc="223510888" name="modules/docs/org-netbeans-modules-usersguide.jar"/>
+        <file crc="2661099578" name="modules/org-netbeans-modules-usersguide.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.xml.wsdl.model/1">
+    <module_version install_time="1259966828145" last="true" origin="installer" specification_version="1.8.1.1">
+        <file crc="583042137" name="config/Modules/org-netbeans-modules-xml-wsdl-model.xml"/>
+        <file crc="4210409168" name="modules/org-netbeans-modules-xml-wsdl-model.jar"/>
+    </module_version>
+</module>

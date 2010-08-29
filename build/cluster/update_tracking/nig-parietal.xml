@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="nig.parietal">
+    <module_version install_time="1283079639581" last="true" origin="installer" specification_version="1.0">
+        <file crc="2634262923" name="config/Modules/nig-parietal.xml"/>
+        <file crc="578050518" name="modules/nig-parietal.jar"/>
+    </module_version>
+</module>

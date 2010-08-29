@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Discriptor 1.5//EN" "http://java.sun.com/dtd/JNLP-1.5.dtd">
+<jnlp spec='1.0+' codebase='$$codebase'>
+  <information>
+   <title>Commons Net Integration</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>This plugin bundles Commons Net.</description>
+   <description kind='short'>The module bundles Apache Commons Net from http://commons.apache.org/net/.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='org-netbeans-libs-commons_net/org-netbeans-libs-commons_net.jar'/>
+    <jar href='org-netbeans-libs-commons_net/ext-commons-net-1.4.1.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

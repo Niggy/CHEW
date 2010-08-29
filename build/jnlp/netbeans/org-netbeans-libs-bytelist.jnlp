@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Discriptor 1.5//EN" "http://java.sun.com/dtd/JNLP-1.5.dtd">
+<jnlp spec='1.0+' codebase='$$codebase'>
+  <information>
+   <title>JRuby ByteList</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>JRuby ByteList Library</description>
+   <description kind='short'>This module bundles the JRuby ByteList library used by JRuby and the YAML support.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='org-netbeans-libs-bytelist/org-netbeans-libs-bytelist.jar'/>
+    <jar href='org-netbeans-libs-bytelist/ext-bytelist-0.1.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: nig.parietal
+OpenIDE-Module-Localizing-Bundle: nig/parietal/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Layer: nig/parietal/layer.xml
+
+

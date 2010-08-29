@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="nig-temporal-DirectionAction.instance">
+                <attr name="component" methodvalue="nig.temporal.DirectionTopComponent.findInstance"/>
+                <attr name="displayName" bundlevalue="nig.temporal.Bundle#CTL_DirectionAction"/>
+                <attr name="instanceCreate" methodvalue="org.openide.windows.TopComponent.openAction"/>
+            </file>
+            <file name="nig-temporal-MemoryAction.instance">
+                <attr name="component" methodvalue="nig.temporal.MemoryTopComponent.findInstance"/>
+                <attr name="displayName" bundlevalue="nig.temporal.Bundle#CTL_MemoryAction"/>
+                <attr name="instanceCreate" methodvalue="org.openide.windows.TopComponent.openAction"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="DirectionAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/nig-temporal-DirectionAction.instance"/>
+            </file>
+            <file name="MemoryAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/nig-temporal-MemoryAction.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="DirectionTopComponent.settings" url="DirectionTopComponentSettings.xml"/>
+            <file name="MemoryTopComponent.settings" url="MemoryTopComponentSettings.xml"/>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="MemoryTopComponent.wstcref" url="MemoryTopComponentWstcref.xml"/>
+            </folder>
+            <folder name="leftSlidingSide">
+                <file name="DirectionTopComponent.wstcref" url="DirectionTopComponentWstcref.xml"/>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

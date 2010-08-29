@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: nig.temporal
+OpenIDE-Module-Layer: nig/temporal/layer.xml
+OpenIDE-Module-Localizing-Bundle: nig/temporal/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

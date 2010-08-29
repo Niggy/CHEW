@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.languages/0">
+    <module_version install_time="1259967531526" last="true" origin="installer" specification_version="1.96.1.2">
+        <file crc="53860753" name="config/Modules/org-netbeans-modules-languages.xml"/>
+        <file crc="202638450" name="modules/org-netbeans-modules-languages.jar"/>
+    </module_version>
+</module>

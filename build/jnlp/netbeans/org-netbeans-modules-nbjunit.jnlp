@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Discriptor 1.5//EN" "http://java.sun.com/dtd/JNLP-1.5.dtd">
+<jnlp spec='1.0+' codebase='$$codebase'>
+  <information>
+   <title>NB JUnit</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>NetBeans extensions to JUnit</description>
+   <description kind='short'>NetBeans extensions to JUnit including assertGC, assertSize, getWorkDir, LineDiff, etc.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='org-netbeans-modules-nbjunit/org-netbeans-modules-nbjunit.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>
