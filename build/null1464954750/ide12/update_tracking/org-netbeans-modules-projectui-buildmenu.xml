@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.modules.projectui.buildmenu/1">
-    <module_version install_time="1259965752242" last="true" origin="installer" specification_version="1.4.1.1">
-        <file crc="888893793" name="config/Modules/org-netbeans-modules-projectui-buildmenu.xml"/>
-        <file crc="2723593208" name="modules/org-netbeans-modules-projectui-buildmenu.jar"/>
-    </module_version>
-</module>

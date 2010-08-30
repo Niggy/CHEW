@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.modules.project.libraries/1">
-    <module_version install_time="1259968669262" last="true" origin="installer" specification_version="1.23.1">
-        <file crc="3594426992" name="config/ModuleAutoDeps/org-netbeans-modules-project-libraries.xml"/>
-        <file crc="2709155271" name="config/Modules/org-netbeans-modules-project-libraries.xml"/>
-        <file crc="577362658" name="modules/org-netbeans-modules-project-libraries.jar"/>
-    </module_version>
-</module>

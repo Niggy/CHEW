@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.modules.kenai">
-    <module_version install_time="1259965847975" last="true" origin="installer" specification_version="0.8.1">
-        <file crc="110445921" name="config/Modules/org-netbeans-modules-kenai.xml"/>
-        <file crc="2133403235" name="modules/org-netbeans-modules-kenai.jar"/>
-    </module_version>
-</module>

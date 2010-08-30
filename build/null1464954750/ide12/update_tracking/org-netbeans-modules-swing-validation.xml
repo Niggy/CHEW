@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.modules.swing.validation/1">
-    <module_version install_time="1259965798915" last="true" origin="installer" specification_version="1.2.1">
-        <file crc="301007866" name="config/Modules/org-netbeans-modules-swing-validation.xml"/>
-        <file crc="3635571959" name="modules/ext/ValidationAPI.jar"/>
-        <file crc="2053441122" name="modules/org-netbeans-modules-swing-validation.jar"/>
-    </module_version>
-</module>

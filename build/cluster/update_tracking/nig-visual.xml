@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module codename="nig.visual">
-    <module_version install_time="1283079641589" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1283167230824" last="true" origin="installer" specification_version="1.0">
         <file crc="2865552993" name="config/Modules/nig-visual.xml"/>
         <file crc="4047009704" name="modules/ext/org-netbeans-api-visual.jar"/>
         <file crc="3060053195" name="modules/ext/org-netbeans-core-multiview.jar"/>
-        <file crc="4198145108" name="modules/nig-visual.jar"/>
+        <file crc="111280462" name="modules/nig-visual.jar"/>
     </module_version>
 </module>

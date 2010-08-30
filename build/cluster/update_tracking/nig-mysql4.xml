@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module codename="nig.mysql4">
-    <module_version install_time="1283079638746" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1283167225084" last="true" origin="installer" specification_version="1.0">
         <file crc="1342590487" name="config/Modules/nig-mysql4.xml"/>
         <file crc="3001390372" name="modules/ext/mysql-connector-java-5.1.6-bin.jar"/>
-        <file crc="4174383531" name="modules/nig-mysql4.jar"/>
+        <file crc="1081553698" name="modules/nig-mysql4.jar"/>
     </module_version>
 </module>

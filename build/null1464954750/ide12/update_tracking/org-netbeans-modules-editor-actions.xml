@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.modules.editor.actions/1">
-    <module_version install_time="1259966063535" last="true" origin="installer" specification_version="1.2.1.2">
-        <file crc="365409365" name="config/Modules/org-netbeans-modules-editor-actions.xml"/>
-        <file crc="105475398" name="modules/org-netbeans-modules-editor-actions.jar"/>
-    </module_version>
-</module>

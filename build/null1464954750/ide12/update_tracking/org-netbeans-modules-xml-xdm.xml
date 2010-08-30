@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.modules.xml.xdm/1">
-    <module_version install_time="1259966427393" last="true" origin="installer" specification_version="1.8.1.1">
-        <file crc="153148190" name="config/Modules/org-netbeans-modules-xml-xdm.xml"/>
-        <file crc="59726741" name="modules/org-netbeans-modules-xml-xdm.jar"/>
-    </module_version>
-</module>

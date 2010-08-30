@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: nig.frontal
+OpenIDE-Module-Layer: nig/frontal/layer.xml
+OpenIDE-Module-Localizing-Bundle: nig/frontal/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

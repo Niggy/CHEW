@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.modules.dbapi">
-    <module_version install_time="1259966064237" last="true" origin="installer" specification_version="1.11.1.30">
-        <file crc="175197708" name="config/Modules/org-netbeans-modules-dbapi.xml"/>
-        <file crc="706387607" name="modules/org-netbeans-modules-dbapi.jar"/>
-    </module_version>
-</module>

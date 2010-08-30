@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.libs.junit4">
-    <module_version install_time="1259965698053" last="true" origin="installer" specification_version="1.7.1">
-        <file crc="2221551381" name="config/Modules/org-netbeans-libs-junit4.xml"/>
-        <file crc="574198719" name="modules/ext/junit-4.5.jar"/>
-        <file crc="1057240545" name="modules/org-netbeans-libs-junit4.jar"/>
-    </module_version>
-</module>

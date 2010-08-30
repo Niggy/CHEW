@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.modules.jellytools.ide/3">
-    <module_version install_time="1259966524853" last="true" origin="installer" specification_version="3.2.1.1">
-        <file crc="2529190323" name="config/Modules/org-netbeans-modules-jellytools-ide.xml"/>
-        <file crc="1116478412" name="modules/org-netbeans-modules-jellytools-ide.jar"/>
-    </module_version>
-</module>

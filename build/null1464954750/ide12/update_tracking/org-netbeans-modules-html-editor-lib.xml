@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.modules.html.editor.lib/1">
-    <module_version install_time="1259966916632" last="true" origin="installer" specification_version="1.23.1">
-        <file crc="1007819000" name="config/Modules/org-netbeans-modules-html-editor-lib.xml"/>
-        <file crc="3470673908" name="modules/org-netbeans-modules-html-editor-lib.jar"/>
-    </module_version>
-</module>

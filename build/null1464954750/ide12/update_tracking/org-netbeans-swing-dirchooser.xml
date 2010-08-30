@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.swing.dirchooser">
-    <module_version install_time="1259966105323" last="true" origin="installer" specification_version="1.6.1">
-        <file crc="1559588639" name="config/Modules/org-netbeans-swing-dirchooser.xml"/>
-        <file crc="2357685400" name="modules/org-netbeans-swing-dirchooser.jar"/>
-    </module_version>
-</module>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.spi.debugger.ui/1">
-    <module_version install_time="1259968709856" last="true" origin="installer" specification_version="2.19.1">
-        <file crc="3629252901" name="config/Modules/org-netbeans-spi-debugger-ui.xml"/>
-        <file crc="1800628720" name="modules/org-netbeans-spi-debugger-ui.jar"/>
-    </module_version>
-</module>

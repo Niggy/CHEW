@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module codename="nig.temporal">
-    <module_version install_time="1283079640436" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1283167229992" last="true" origin="installer" specification_version="1.0">
         <file crc="278216211" name="config/Modules/nig-temporal.xml"/>
-        <file crc="1120564556" name="modules/nig-temporal.jar"/>
+        <file crc="3613327181" name="modules/nig-temporal.jar"/>
     </module_version>
 </module>
